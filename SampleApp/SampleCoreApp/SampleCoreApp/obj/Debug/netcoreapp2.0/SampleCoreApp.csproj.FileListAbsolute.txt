@@ -1,0 +1,11 @@
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.deps.json
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.runtimeconfig.json
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.runtimeconfig.dev.json
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.dll
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.pdb
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.csprojResolveAssemblyReference.cache
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.csproj.CoreCompileInputs.cache
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.AssemblyInfoInputs.cache
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.AssemblyInfo.cs
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.dll
+C:\Github\ApplicationInsights\SampleApp\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.pdb
